@@ -92,7 +92,7 @@ Keep an eye on our and updates as we continue to evolve Limequick.
    Add your comments in the respective text input fields.
    Click the "Generate Document" button to create a document with the comments and save it as a .docx.
 
-   (.pdf coming soon... 👀).
+   (.pdf coming soon... 👀)
 
 4. **Download the document**
   
