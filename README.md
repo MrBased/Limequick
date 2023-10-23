@@ -7,6 +7,7 @@
 ## Table of Contents
 
 - [About Limequick](#about-limequick)
+- [Roadmap](#roadmap)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -31,12 +32,50 @@ With Limequick this nightmare ENDS 🥳:
 - Click to download the file with all requirements met 🌞
 - Upload to the official platform and assign a score 🏁
 
-## Requirements
+# Roadmap
+
+The development of Limequick is an ongoing process, and we have an exciting roadmap ahead to enhance its features and functionality. Here are some of the planned milestones and goals:
+
+## Version 0.1 (Current Version)
+
+- [x] Basic .docx feedback insertion capabilities.
+- [x] .docx to .pdf conversion.
+
+## Upcoming Features
+
+- [ ] User-friendly web app.
+- [ ] Seamless integration with official platforms.
+
+We're always working to make Limequick even better. If you have suggestions or feature requests, feel free to open an issue or contribute to the project!
+
+Keep an eye on our and updates as we continue to evolve Limequick.
+
+
+## Version 1.0 (Current Version)
+
+- [x] Basic essay assessment features.
+- [x] User-friendly web interface.
+- [x] Feedback generation and download options.
+- [x] Seamless integration with official platforms.
+
+## Upcoming Features (Future Versions)
+
+- [ ] Enhanced feedback customization options.
+- [ ] Support for multiple languages.
+- [ ] Collaboration tools for peer assessment.
+- [ ] Improved analytics and reporting.
+
+We're always working to make Limequick even better. If you have suggestions or feature requests, feel free to open an issue or contribute to the project!
+
+Keep an eye on our releases and updates as we continue to evolve Limequick.
+
+
+# Requirements
 
 - Poetry (dependency management)
 - Pyenv (python version management)
 
-## Installation
+# Installation
 
 1. Clone the repository to your local machine:
 
