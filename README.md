@@ -3,7 +3,7 @@
 </p>
 
 
-*Organización y Comportamiento Organizacional* (ICS2813) is a course where +300 students have to write essays and assess each other on a weekly basis . However, we found the peer assessment process to be **unnecessarily long**...
+*Organización y Comportamiento Organizacional* (ICS2813) is a course where +300 students have to write essays and assess each other on a weekly basis. However, we found the peer assessment process to be **excessively time-consuming...**
 ## Table of Contents
 
 - [About Limequick](#about-limequick)
