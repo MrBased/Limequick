@@ -51,25 +51,6 @@ We're always working to make Limequick even better. If you have suggestions or f
 Keep an eye on our and updates as we continue to evolve Limequick.
 
 
-## Version 1.0 (Current Version)
-
-- [x] Basic essay assessment features.
-- [x] User-friendly web interface.
-- [x] Feedback generation and download options.
-- [x] Seamless integration with official platforms.
-
-## Upcoming Features (Future Versions)
-
-- [ ] Enhanced feedback customization options.
-- [ ] Support for multiple languages.
-- [ ] Collaboration tools for peer assessment.
-- [ ] Improved analytics and reporting.
-
-We're always working to make Limequick even better. If you have suggestions or feature requests, feel free to open an issue or contribute to the project!
-
-Keep an eye on our releases and updates as we continue to evolve Limequick.
-
-
 # Requirements
 
 - Poetry (dependency management)
