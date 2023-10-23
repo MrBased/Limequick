@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "limequick"
+version = "0.1.0"
+description = ""
+authors = ["MrBased <felipeaguilarwenig@uc.cl>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+python-docx = "^1.0.1"
+Flask = "^3.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
