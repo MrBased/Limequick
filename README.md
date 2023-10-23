@@ -23,13 +23,13 @@ Without Limequick the process goes like this:
 - Rename the merged result PDF to match the initial file name of the essay (which is an encoded hard to follow string) 💀
 - Upload to the official platform and assign a score ⚰️
 
-Guess what... this steps are followed **TWICE** every week with a single day deadline!
+Guess what... this steps are followed **TWICE** every week with a single-day deadline!
 
 With Limequick this nightmare ENDS 🥳:
 - Download the essay and upload it to Limequick web app 🌈
 - Write your feedback in the text fields 💡
 - Click to download the file with all requirements met 🌞
-- Upload to the official platform and assign score 🏁
+- Upload to the official platform and assign a score 🏁
 
 ## Requirements
 
