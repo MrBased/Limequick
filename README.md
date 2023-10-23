@@ -73,6 +73,31 @@ Keep an eye on our and updates as we continue to evolve Limequick.
     poetry run python src/app.py
     ```
 
+# Usage
+1. **Run the Application**
+
+   To start the Flask application, open a terminal or command prompt, navigate to the project directory, and run the following command:
+
+   ```bash
+   python app.py
+   ```
+
+2. **Access the Web App**
+
+   Open a web browser and navigate to http://localhost:5000/ or http://127.0.0.1:5000/. You will be presented with the Limequick web app.
+
+3. **Fill Out the Form**
+  
+   Enter the number of positive comments and suggestions for improvement that you want to add.
+   Add your comments in the respective text input fields.
+   Click the "Generate Document" button to create a document with the comments and save it as a .docx.
+
+   (.pdf coming soon... 👀).
+
+4. **Download the document**
+  
+   After generating the docx, a download link will appear on the page if the docx was successfully created. Click the "Download" button to download the docx document.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
