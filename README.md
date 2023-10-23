@@ -14,22 +14,22 @@
 - [License](#license)
 
 <a name="about-limequick"></a>
-# About Limequick
-Without Limequick the process goes like this 😫:
-- Download the essay to be assessed
-- Download the template to write positive and negative feedback (.docx)
-- Save the template with the comments as PDF
-- Use PDF editing tools to merge the essay and your feedback PDFs
-- Rename the merged result PDF to match the initial file name of the essay (which is an encoded hard to follow string)
-- Upload to the official platform and assign a score
+# About Limequick 🍋
+Without Limequick the process goes like this:
+- Download the essay to be assessed 💤
+- Download the template to write positive and negative feedback (.docx) 😫
+- Save the template with the comments as PDF 😢
+- Use PDF editing tools to merge the essay and your feedback PDFs 😴
+- Rename the merged result PDF to match the initial file name of the essay (which is an encoded hard to follow string) 💀
+- Upload to the official platform and assign a score ⚰️
 
 Guess what... this steps are followed **TWICE** every week with a single day deadline!
 
 With Limequick this nightmare ENDS 🥳:
-- Download the essay and upload it to Limequick web app
-- Write your feedback in the text fields
-- Click to download the file with all requirements met
-- Upload to the official platform and assign score
+- Download the essay and upload it to Limequick web app 🌈
+- Write your feedback in the text fields 💡
+- Click to download the file with all requirements met 🌞
+- Upload to the official platform and assign score 🏁
 
 ## Requirements
 
