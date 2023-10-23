@@ -52,3 +52,7 @@ With Limequick this nightmare ENDS 🥳:
    ```bash
     poetry run python write.py
     ```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
