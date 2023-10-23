@@ -32,7 +32,7 @@ With Limequick this nightmare ENDS 🥳:
 - Click to download the file with all requirements met 🌞
 - Upload to the official platform and assign a score 🏁
 
-# Roadmap
+# Roadmap 🚩
 
 The development of Limequick is an ongoing process, and we have an exciting roadmap ahead to enhance its features and functionality. Here are some of the planned milestones and goals:
 
