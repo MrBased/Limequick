@@ -10,9 +10,10 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </head>
 <body>
-
     <form method="POST" enctype="multipart/form-data" class="container mt-5">
-        <h1>Limequick</h1>
+        <div class="d-flex justify-content-center pt-10">
+            <img src="{{ url_for('static', filename='logo.png') }}" alt="Logo" class="img-fluid">
+        </div>
         <div class="form-group">
             <label for="n_good_comments">Number of positive comments:</label>
             <input type="number" name="n_good_comments" id="n_good_comments" class="form-control">
