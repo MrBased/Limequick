@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Limequick</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+    <form method="POST" enctype="multipart/form-data" class="container mt-5">
+        <h1>Limequick</h1>
+        <div class="form-group">
+            <label for="n_good_comments">Number of positive comments:</label>
+            <input type="number" name="n_good_comments" id="n_good_comments" class="form-control">
+        </div>
+        <div class="form-group">
+            <label for="n_bad_comments">Number of suggestions for improvement:</label>
+            <input type="number" name="n_bad_comments" id="n_bad_comments" class="form-control">
+        </div>
+        <div class="form-group">
+            <label for="good_comment">Positive Comment:</label>
+            <input type="text" name="good_comment" id="good_comment" class="form-control">
+        </div>
+        <div class="form-group">
+            <label for="bad_comment">Suggestion for Improvement:</label>
+            <input type="text" name="bad_comment" id="bad_comment" class="form-control">
+        </div>
+        <button type="submit" class="btn btn-primary">Generate Document</button>
+    </form>
+
+    {% if pdf_created %}
+    <div class="container mt-3">
+        <a href="{{ url_for('download_pdf') }}" class="btn btn-success">Download PDF</a>
+    </div>
+    {% endif %}
+
+</body>
+</html>
