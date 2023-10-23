@@ -39,11 +39,11 @@ The development of Limequick is an ongoing process, and we have an exciting road
 ## Version 0.1 (Current Version)
 
 - [x] Basic .docx feedback insertion capabilities.
-- [x] .docx to .pdf conversion.
+- [x] User-friendly web app.
 
 ## Upcoming Features
 
-- [ ] User-friendly web app.
+- [ ] .docx to .pdf conversion.
 - [ ] Seamless integration with official platforms.
 
 We're always working to make Limequick even better. If you have suggestions or feature requests, feel free to open an issue or contribute to the project!
