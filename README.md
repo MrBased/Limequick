@@ -70,7 +70,7 @@ Keep an eye on our and updates as we continue to evolve Limequick.
 3. Run the application:
 
    ```bash
-    poetry run python write.py
+    poetry run python src/app.py
     ```
 
 ## License
